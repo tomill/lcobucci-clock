@@ -1,5 +1,5 @@
 {
-    "name": "lcobucci/clock",
+    "name": "tomill/lcobucci-clock",
     "description": "Yet another clock abstraction",
     "type": "library",
     "license": "MIT",
