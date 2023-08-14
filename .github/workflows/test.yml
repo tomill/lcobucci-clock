@@ -2,7 +2,7 @@ name: test
 on:
   push:
     branches:
-      - 2.5.0-tempfix
+      - "*-tempfix"
 
 jobs:
   test:
